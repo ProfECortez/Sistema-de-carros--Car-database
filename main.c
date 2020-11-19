@@ -1,7 +1,5 @@
 /*
- Disciplina: Técnicas de Programação
- Aluno: Eduardo Pessonia Molina Cortez
- MAtrícula: 2020215387
+ Autoria: Eduardo Cortez
  
  Esse programa simula um sistema de cadastro e busca de carros;
  
@@ -9,7 +7,7 @@
     - marca do veículo
     - modelo
     - ano de fabricação
-    - placa (formato XXX-YYYY
+    - placa (formato XXX-YYYY)
  
  As funções do sistema são:
     - Listar os veículos cadastrados;
